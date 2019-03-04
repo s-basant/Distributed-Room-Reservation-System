@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ADMIN_CLIENT/ADMIN_CLIENT/src"/>
+	<classpathentry kind="src" path="ADMIN_CLIENT/DRRS_DVL_SERVER/src"/>
+	<classpathentry kind="src" path="ADMIN_CLIENT/DRRS_KKL_SERVER/src"/>
+	<classpathentry kind="src" path="ADMIN_CLIENT/DRRS_WST_SERVER/src"/>
+	<classpathentry kind="src" path="ADMIN_CLIENT/STUDENT_CLIENT/src"/>
+	<classpathentry kind="src" path="basant/src"/>
+	<classpathentry kind="src" path="manohar/src"/>
+	<classpathentry excluding="reservationSystem/" kind="src" path="pallavi/src"/>
+	<classpathentry kind="src" path="pallavi/src/reservationSystem"/>
+	<classpathentry kind="src" path="STUDENT_CLIENT/src"/>
+	<classpathentry kind="src" path="vinitha/src"/>
+	<classpathentry kind="output" path="ADMIN_CLIENT/ADMIN_CLIENT/bin"/>
+</classpath>

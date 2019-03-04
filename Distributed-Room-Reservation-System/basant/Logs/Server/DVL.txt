@@ -1,0 +1,1757 @@
+Dec 07, 2017 9:32:08 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/07 21:32:08
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@2ca83113
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 12:13:23 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 12:13:23
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@1d5f1990
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 12:18:56 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 12:18:56
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@40271c44
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:20:07 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:20:07
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:29:51 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 12:29:50
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@480bb386
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:30:13 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 12:30:13
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 12:51:17 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 12:51:17
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: fail
+ Server response: Room booking failed
+Dec 08, 2017 12:58:00 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 12:58:00
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@2ca83113
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:00:51 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:00:51
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@4a78fd22
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:04:08 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:04:08
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@2ca83113
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:12:40 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:12:40
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@2ca83113
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:13:05 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:13:05
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:25 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:18:25
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@4a78fd22
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:18:43 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:18:43
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:26 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:32:26
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@4a78fd22
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:37 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:37
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:32:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:32:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:33:54 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:33:54
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:34:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:34:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:35:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:35:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:11 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:40:11
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@4a78fd22
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:40:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:40:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:11 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:11
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:41:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:41:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:42:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:42:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:50:51 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 13:50:51
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@649b84b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:09 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:09
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:15 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:15
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:20 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:20
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 1:51:52 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 13:51:52
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:17:47 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 14:17:47
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@480bb386
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:03 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:03
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:24 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:24
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:33 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:33
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 2:18:49 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 14:18:49
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:43:15 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 15:43:15
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@7ca7ed49
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:47:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 15:47:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 3:50:08 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 15:50:08
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: fail
+ Server response: Room booking failed
+Dec 08, 2017 4:20:27 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 16:20:27
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@7ca7ed49
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:20:46 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:20:46
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:21:52 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 16:21:52
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 023 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 4:32:56 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 16:32:56
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@5d126749
+ Request Status: failed
+ Server response : Slots are already avaialble
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:34:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:34:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:42:35 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 16:42:35
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@313d0b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 4:42:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:42:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:42:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:42:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:42:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 16:42:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 4:44:13 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 16:44:13
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 023 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:01:55 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:01:54
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@277b346f
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 5:03:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:03:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:03:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:03:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:03:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:03:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:06:44 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:06:44
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@277b346f
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 5:06:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:06:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:06:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:06:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:06:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:06:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:07:07 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:07:07
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 023 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:18:41 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:18:41
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@649b84b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 5:19:08 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:19:08
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:19:08 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:19:08
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:19:08 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:19:08
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:20:04 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:20:04
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:26:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:26:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:26:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:26:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:26:22 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:26:22
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:38:35 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:38:35
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@649b84b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 5:38:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:38:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:38:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:38:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:38:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:38:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:39:23 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:39:23
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:40:23 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:40:23
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:40:23 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:40:23
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:40:23 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 17:40:23
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 5:43:16 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:43:16
+ Request Type:createRoom
+ Request parameters:  Room_Number 044 date:23-10-2017 Timeslot: [Ljava.lang.String;@62ed754c
+ Request Status: success
+ Server response : New slots has been successfully added
+Dec 08, 2017 5:43:52 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:43:52
+ Request Type:createRoom
+ Request parameters:  Room_Number 044 date:23-10-2017 Timeslot: [Ljava.lang.String;@6c2a8761
+ Request Status: success
+ Server response : New time slot has been successfully added
+Dec 08, 2017 5:44:52 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 17:44:52
+ Request Type:createRoom
+ Request parameters:  Room_Number 045 date:23-10-2017 Timeslot: [Ljava.lang.String;@68151e3c
+ Request Status: success
+ Server response : New slots has been successfully added
+Dec 08, 2017 5:45:23 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:45:23
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 044 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:46:30 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:46:30
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 044 date:23-10-2017 Timeslot: 13:30-14:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 5:47:09 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 17:47:09
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 045 date:23-10-2017 Timeslot: 15:30-16:30
+ Request Status: fail
+ Server response: No more booking allowed for the week
+Dec 08, 2017 6:38:09 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 18:38:09
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@7ca7ed49
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 6:38:45 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 18:38:45
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@3be70ac7
+ Request Status: success
+ Server response : New time slot has been successfully added
+Dec 08, 2017 7:05:47 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:05:47
+ Request Type:createRoom
+ Request parameters:  Room_Number 035 date:23-10-2017 Timeslot: [Ljava.lang.String;@313d0b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:06:04 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:06:04
+ Request Type:createRoom
+ Request parameters:  Room_Number 035 date:23-10-2017 Timeslot: [Ljava.lang.String;@1ad6d290
+ Request Status: success
+ Server response : New time slot has been successfully added
+Dec 08, 2017 7:16:05 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:16:05
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@480bb386
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:16:21 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:16:21
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@59c78011
+ Request Status: success
+ Server response : New slots has been successfully added
+Dec 08, 2017 7:24:21 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:24:21
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@7ca7ed49
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:25:04 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 19:25:04
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 7:36:10 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:36:10
+ Request Type:createRoom
+ Request parameters:  Room_Number 035 date:23-10-2017 Timeslot: [Ljava.lang.String;@277b346f
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:36:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:36:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:36:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:36:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:36:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:36:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:37:09 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 19:37:09
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 035 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 7:40:51 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:40:51
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@313d0b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:41:17 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:41:17
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:41:17 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:41:17
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:41:17 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:41:17
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:41:59 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 19:41:59
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 034 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 7:48:23 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 19:48:23
+ Request Type:createRoom
+ Request parameters:  Room_Number 035 date:23-10-2017 Timeslot: [Ljava.lang.String;@7ca7ed49
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 7:48:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:48:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:48:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:48:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:48:48 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 19:48:48
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 7:49:44 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 19:49:44
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 035 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 8:01:21 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 20:01:21
+ Request Type:createRoom
+ Request parameters:  Room_Number 023 date:23-10-2017 Timeslot: [Ljava.lang.String;@313d0b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 8:02:47 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 20:02:47
+ Request Type:createRoom
+ Request parameters:  Room_Number 033 date:23-10-2017 Timeslot: [Ljava.lang.String;@649b84b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 8:03:02 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:03:02
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:03:02 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:03:02
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:03:02 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:03:02
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:03:33 PM Server.RoomReservationSystem getBookRoom
+INFO: 
+ Request time: 2017/12/08 20:03:33
+ Request Type: bookRoom
+ Request parameters:  campus_Name:KKL Room_Number 033 date:23-10-2017 Timeslot: 12:30-13:30
+ Request Status: success
+ Server response: Room has been successfully booked
+Dec 08, 2017 8:05:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:05:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:05:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:05:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:05:45 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:05:45
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:00 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:00
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:16 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:16
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:16 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:16
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:16 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:16
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:31 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:31
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:31 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:31
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 8:06:31 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 20:06:31
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:30:02 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 21:30:02
+ Request Type:createRoom
+ Request parameters:  Room_Number 035 date:23-10-2017 Timeslot: [Ljava.lang.String;@313d0b7
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 9:30:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:30:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:30:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:30:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:30:55 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:30:55
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:39:49 PM Server.RoomReservationSystem createRoom
+INFO: 
+ Request time: 2017/12/08 21:39:49
+ Request Type:createRoom
+ Request parameters:  Room_Number 034 date:23-10-2017 Timeslot: [Ljava.lang.String;@480bb386
+ Request Status: success
+ Server response : New Room record has been successfully created
+Dec 08, 2017 9:42:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:42:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:42:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:42:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:42:26 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:42:26
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:44:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:44:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:44:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:44:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed
+Dec 08, 2017 9:44:56 PM Server.RoomReservationSystem getAllTimeslotCount
+INFO: 
+ Request time: 2017/12/08 21:44:56
+ Request Type: getAvailableTimeSlot
+ Request parameters:  date:23-10-2017
+ Request Status: failed
+ Server responsefailed

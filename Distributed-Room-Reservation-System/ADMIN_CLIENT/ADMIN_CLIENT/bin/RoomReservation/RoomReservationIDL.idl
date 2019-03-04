@@ -1,0 +1,19 @@
+module RoomReservation {
+	interface RoomReservationInterface
+	{
+	string fnBookRoom(in string StudentId, in string campus,in string dRoomNumber,in string dtDate,in string dtToTimeSlott); 
+		
+	boolean fnDeleteRoom (in string adminId,in string date,in string roomNumber,in string timeSlots);
+	
+	string fnGetAvailableTimeSlot(in string campus,in string dtdate);
+
+	boolean fnCancelBooking(in string strBookingId,in string StudentId);
+			
+	boolean fnCreateRoom(in string adminId,in string date,in string roomNumber,in string timeSlots);
+	
+	string fnTransferRoomDetails(in string strBookingId,in string strStudentId,in string strDate,
+			in string strCampusName,in string strNewCampusName, in string strRoomNumber, in string strTimeSlot);
+
+	
+	};	
+};
