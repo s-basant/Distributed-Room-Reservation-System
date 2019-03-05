@@ -2,5 +2,4 @@
 
 The applicaiton manages the room slot booking across three campus of a university.
  
-There are 4 nodes(with names as contributor) out of which 3 will act server and one will be client. 
-Please refer to the documentation for desing and functioning of the applicaiton.
+Note: In this applicaiton, there are 4 nodes used, 3 nodes used as server and one node as client. Other contributors are the one who created similar application and acting as server for this applicaiton.
